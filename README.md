@@ -1,8 +1,4 @@
-Bilkul. Tumhare uploaded MarketPulse project report ke basis par maine GitHub ke liye ready-to-paste `README.md` banaya hai. Report me project ko Python + FastAPI backend, HTML/CSS/JavaScript + Chart.js frontend, Twelve Data integration, stock search, historical chart, watchlist, portfolio aur alerts UI ke saath describe kiya gaya hai.  
 
-GitHub repository me `README.md` ke andar pura neeche wala content paste kar do:
-
-````markdown
 # MarketPulse - Real-Time Stock Market Dashboard
 
 MarketPulse is a web-based stock market dashboard built using Python and FastAPI. It provides a simple and interactive interface for searching stocks, viewing stock prices and market metrics, analyzing historical price movements, managing a watchlist, viewing portfolio information, and setting price alerts.
