@@ -550,9 +550,4 @@ GitHub:
 
 This project can be used for educational and development purposes. Add an appropriate open-source license to this repository if you plan to distribute the project publicly.
 
-```
 
-Ye README tumhare report ke actual scope ko reflect karta hai, including architecture, setup, API endpoints, security, limitations aur future roadmap. Report ke folder structure aur setup details pages 5 and 8 me documented hain, while limitations and future development pages 8–9 me diye gaye hain. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
-
-Tum ise directly GitHub ke `README.md` me paste kar sakte ho.
-```
